@@ -9,7 +9,7 @@ This project demonstrates how to automate the build and deployment of a Node.js 
 The goal is to set up a Continuous Integration/Continuous Deployment (CI/CD) pipeline using GitHub Actions that:
 
 1. Installs dependencies
-2. Runs tests (optional)
+2. Runs tests
 3. Builds a Docker image
 4. Pushes the image to DockerHub
 
